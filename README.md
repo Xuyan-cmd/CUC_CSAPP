@@ -1,5 +1,5 @@
 # CUC_CSAPP
-CUC深入理解计算机系统实验资料
+[CUC深入理解计算机系统实验资料](https://bai-chuan.gitbook.io/shen-ru-li-jie-ji-suan-ji-xi-tong-shi-yan-gui-dang/)
 
 ## Ubuntu环境搭建教学（保姆级）
 
